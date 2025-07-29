@@ -8,10 +8,14 @@ The goal of this project is to:
 - 📚 Provide a **structured list of books, topics, and study paths** for anyone dreaming of working in motorsport engineering.
 - 🚀 Share an **open roadmap for transitioning into F1 engineering**, from coding and data analysis to trackside engineering.
 
+---
+
 ### 🤝 Contributions and Feedback
 
 - All advice, corrections, and improvements are **very welcome** – this is a **living document** and will evolve a lot over time.
 - If you’re on a similar journey or already working in motorsport engineering, feel free to **open issues or PRs** to suggest new resources, tools, or better structures.
+
+---
 
 ### 💡 Disclaimer
 
