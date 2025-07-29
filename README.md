@@ -35,6 +35,8 @@ This is a **living repository**, and I plan to expand it continuously with:
 ### ⚠️ Disclaimer
 
 This project is:
-- A **personal roadmap**, not official guidance for F1 careers.
-- Free to use, fork, or adapt if you think it’s helpful.
-- Continuously **updated and improved** as I progress in my F1 engineering journey.
+- ✅ A **personal roadmap** – not official or guaranteed guidance for F1 careers.
+- ✅ Free to use, fork, or adapt if it’s helpful for you.
+- ⚠️ Continuously **updated and modified** as I learn more about motorsport engineering.
+
+---
