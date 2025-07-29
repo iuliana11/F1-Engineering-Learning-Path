@@ -1,4 +1,4 @@
-# 📚 Formula 1 Engineering – Complete Recommended Book List
+# 🏎️ Formula 1 Race Car Engineering – Book List
 
 This is a **comprehensive reading list** for aspiring Formula 1 engineers.  
 It covers **vehicle dynamics, tyres, aerodynamics, data analysis, electronics, programming, composites, design**, and **real-world race engineering skills**.
