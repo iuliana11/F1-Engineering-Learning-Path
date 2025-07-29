@@ -1,4 +1,4 @@
-# 🏎️ Formula 1 Race Car Engineering – Master Content List (Expanded)
+# 🏎️ Formula 1 Race Car Engineering – Content List
 
 *(Compiled from: Milliken, Gillespie, Haney, Katz, Carroll Smith, McBeath, Fey, Seward, McManus, Livesey, Simms, McKinney, Allen)*
 
