@@ -5,7 +5,7 @@ Imagine a race car is like a **super athletic human**:
 - The **engineers** are the **trainers, doctors, nutritionists, and equipment designers** that make sure this athlete can run as fast, as long, and as safely as possible.  
 
 Without engineering, a race car is just a **metal box with wheels**.  
-Engineering is what **turns it into a Formula 1 car capable of going 300 km/h while staying on track and not falling apart**.
+Engineering is what **turns it into a Formula 1 car capable of going 300 km/h while staying on [track](https://github.com/iuliana11/F1-Engineering-Learning-Path/blob/main/Motorsport_Vocabulary.md#-track) and not falling apart**.
 
 ---
 
@@ -16,7 +16,7 @@ Engineers design **everything that makes a car go fast**:
 - **Engine:** Gives the car power (like a heart pumping blood).  
   - F1 engines are small but produce ~1000 horsepower thanks to precise engineering.  
 - **Aerodynamics:** Shapes the car to cut through air.  
-  - Formula 1 cars have wings that push them down, giving “super grip” in corners.  
+  - Formula 1 cars have wings that push them down, giving “super [grip](https://github.com/iuliana11/F1-Engineering-Learning-Path/blob/main/Motorsport_Vocabulary.md#-grip)” in corners.  
 - **Lightweight Materials:** Carbon fiber is as strong as steel but lighter, helping the car accelerate faster.
 
 ---
@@ -25,7 +25,7 @@ Engineers design **everything that makes a car go fast**:
 
 A fast car is useless if it slides everywhere.
 
-- **Suspension:** Helps tires stay in contact with the road.  
+- **[Suspension](https://github.com/iuliana11/F1-Engineering-Learning-Path/blob/main/Motorsport_Vocabulary.md#-suspension):** Helps tires stay in contact with the road.  
 - **Tires:** Different compounds for rain, heat, or long-distance races, chosen based on track conditions.  
 
 ---
