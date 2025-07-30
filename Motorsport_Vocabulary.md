@@ -6,8 +6,7 @@ A collection of key terms used in motorsport, explained in simple words for begi
 
       
 
-| 📌 **TRACK**  |
-|----------------|
+## 📌 **TRACK** 
 
 ##
 
@@ -32,8 +31,7 @@ A **track** is the special **road or circuit** where races take place. It is bui
 
 ---
 
-| 📌 **GRIP** |
-|--------------|
+## 📌 **GRIP**
 
 ##
 
@@ -59,8 +57,7 @@ A **track** is the special **road or circuit** where races take place. It is bui
 
 ---
 
-| 📌 **DOWNFORCE** |
-|-------------------|
+## 📌 **DOWNFORCE** 
 
 ##
 
@@ -90,8 +87,7 @@ A **track** is the special **road or circuit** where races take place. It is bui
 
 ---
 
-| 📌 **AERODYNAMIC DRAG** |
-|--------------------------|
+## 📌 **AERODYNAMIC DRAG** 
 
 ##
 
@@ -121,8 +117,7 @@ A **track** is the special **road or circuit** where races take place. It is bui
 
 ---
 
-| 📌 **SUSPENSION** |
-|--------------------|
+## 📌 **SUSPENSION** 
 
 ##
 
@@ -154,8 +149,7 @@ A **track** is the special **road or circuit** where races take place. It is bui
 
 ---
 
-| 📌 **CHASSIS** |
-|-----------------|
+## 📌 **CHASSIS** 
 
 ##
 
