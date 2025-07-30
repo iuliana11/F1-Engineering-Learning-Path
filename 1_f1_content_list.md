@@ -10,7 +10,7 @@ It covers **physics, mathematics, vehicle systems, data analysis, electronics, s
 ## 🔰 Part I – Fundamentals of Vehicle Motion and Engineering Science
 
 1. **Introduction to Race Car Engineering**
-   - [Purpose of engineering in motorsport](Formula-1-Race-Car-Engineering/Part I – Fundamentals-of-Vehicle-Motion-and-Engineering-Science/Introduction-to-Race-Car-Engineering/Purpose-of-engineering-in-motorsport.md)
+   - [Purpose of engineering in motorsport](Formula-1-Race-Car-Engineering/Part%20I%20%E2%80%93%20Fundamentals-of-Vehicle-Motion-and-Engineering-Science/Introduction-to-Race-Car-Engineering/Purpose-of-engineering-in-motorsport.md)
    - Performance goals: grip, power, reliability, efficiency
    - Interaction of driver, car, and track
 
