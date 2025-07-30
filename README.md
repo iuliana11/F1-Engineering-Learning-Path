@@ -13,10 +13,13 @@ The goal of this project is to:
 ### 📂 Repository Contents
 
 Currently, this project contains:
-- **`1_f1_content_list.md`** – Full outline of topics to master for F1 engineering.
-- **`2_f1_engineering_books_list.md`** – Recommended books for every skill level.
-- **`3_f1_topic_to_book_map.md`** – A detailed map linking each topic to the right book and chapter.
-- *(Coming soon)* **`/detailed_information/` folder** – Will include expanded notes, calculations, and examples for each topic.
+- **1_f1_content_list.md** – Full outline of topics to master for Formula 1 engineering.  
+- **2_f1_engineering_books_list.md** – Recommended books for every skill level.  
+- **3_f1_topic_to_book_map.md** – A detailed map linking each topic to the right book and chapter.  
+- **Motorsport_Vocabulary.md** – A growing list of beginner-friendly motorsport terms with simple definitions.  
+- **Formula-1-Race-Car-Engineering/** – *Detailed information folder* containing expanded notes, explanations, and examples.
+
+---
 
 This is a **living repository**, and I plan to expand it continuously with:
 - ✅ Detailed theory notes for each content list topic.
