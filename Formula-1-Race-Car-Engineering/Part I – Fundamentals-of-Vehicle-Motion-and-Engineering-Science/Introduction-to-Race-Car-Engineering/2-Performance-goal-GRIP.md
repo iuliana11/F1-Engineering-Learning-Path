@@ -19,7 +19,8 @@ This guide explains **Grip** in detail, as it is one of the most crucial factors
 
 Grip is the **ability of a car's tyres to hold onto the track surface**, stopping the car from sliding when braking, turning, or accelerating.  
 It’s the **foundation of racing performance** – without grip, all the engine power and fancy aerodynamics in the world won’t make the car fast.
-[!POZA](Formula-1-Race-Car-Engineering/IMAGES/6d93c7ea-e018-4c88-a291-61173d775d78.png)
+![POZA](Formula-1-Race-Car-Engineering/IMAGES/6d93c7ea-e018-4c88-a291-61173d775d78.png)
+
 - **Why it matters:**  
   - More grip = better control, shorter braking distances, higher cornering speeds, and faster lap times.  
   - Gives the driver confidence to push the car closer to its limits.
