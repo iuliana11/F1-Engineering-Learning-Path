@@ -11,7 +11,7 @@ It covers **physics, mathematics, vehicle systems, data analysis, electronics, s
 
 1. **Introduction to Race Car Engineering**
    - [Purpose of engineering in motorsport](Formula-1-Race-Car-Engineering/Part%20I%20%E2%80%93%20Fundamentals-of-Vehicle-Motion-and-Engineering-Science/Introduction-to-Race-Car-Engineering/1-Purpose-of-engineering-in-motorsport.md)
-   - Performance goals: grip
+   - [Performance goals: grip](Formula-1-Race-Car-Engineering/Part%20I%20%E2%80%93%20Fundamentals-of-Vehicle-Motion-and-Engineering-Science/Introduction-to-Race-Car-Engineering/2-Performance-goal-GRIP.md)
    - Performance goals: power
    - Performance goals: reliability
    - Performance goals: efficiency
