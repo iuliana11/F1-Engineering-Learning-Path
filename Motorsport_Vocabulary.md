@@ -8,10 +8,13 @@ A collection of key terms used in motorsport, explained in simple words for begi
 
 ## 📌 **TRACK** 
 
-##
-
 ### **Definition:**  
+
 A **track** is the special **road or circuit** where races take place. It is built for high-speed driving and has unique features that challenge both the driver and the car.
+
+<p align="center">
+  <img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/0a50b073-4e89-4d98-b81e-2d5d0dc74d37" />
+</p>
 
 ---
 
@@ -32,8 +35,6 @@ A **track** is the special **road or circuit** where races take place. It is bui
 ---
 
 ## 📌 **GRIP**
-
-##
 
 ### **Definition:**  
 **Grip** is the **amount of traction or stickiness** between the tires of a car and the surface of the track. Good grip allows the car to go faster through corners without sliding.
@@ -58,8 +59,6 @@ A **track** is the special **road or circuit** where races take place. It is bui
 ---
 
 ## 📌 **DOWNFORCE** 
-
-##
 
 ### **Definition:**  
 **Downforce** is the **aerodynamic force** that pushes a race car down onto the track as it moves forward. This helps the tires grip the road better, allowing the car to go faster through corners without sliding.
@@ -89,8 +88,6 @@ A **track** is the special **road or circuit** where races take place. It is bui
 
 ## 📌 **AERODYNAMIC DRAG** 
 
-##
-
 ### **Definition:**  
 **Aerodynamic drag** is the **air resistance** that pushes against a moving car, slowing it down. The faster the car goes, the more drag it has to fight through.
 
@@ -111,15 +108,14 @@ A **track** is the special **road or circuit** where races take place. It is bui
 ---
 
 ### **Ways to Reduce Drag:**
-- **Streamlined Bodywork:** Minimizing sharp edges and exposed parts.  
+- **Streamlined Bodywork:** Minimizing sharp edges and exposed parts.
+- **Smaller Wing Angles:** Reducing the tilt of wings to allow smoother airflow. 
 - **Drag Reduction System (DRS):** A movable wing flap in Formula 1 that opens on straights to cut drag.  
-- **Smaller Wing Angles:** Reducing the tilt of wings to allow smoother airflow.  
+ 
 
 ---
 
 ## 📌 **SUSPENSION** 
-
-##
 
 ### **Definition:**  
 **Suspension** is the **system of springs, dampers, and linkages** that connects a race car's wheels to its chassis. It helps keep the tires in contact with the track, improves handling, and provides stability, even on uneven surfaces or when cornering at high speeds.
@@ -151,8 +147,6 @@ A **track** is the special **road or circuit** where races take place. It is bui
 
 ## 📌 **CHASSIS** 
 
-##
-
 ### **Definition:**  
 The **chassis** is the **main structural frame** of a race car. It holds all the key components together, including the engine, suspension, wheels, and bodywork. A well-designed chassis is strong, lightweight, and provides safety for the driver.
 
@@ -180,8 +174,6 @@ The **chassis** is the **main structural frame** of a race car. It holds all the
 ---
 
 ## 📌 **LAP TIME**
-
-##
 
 ### **Definition:**  
 **Lap time** is the **amount of time it takes for a car to complete one full circuit** of a racetrack, starting and finishing at the same point. It is a key measure of speed and performance in motorsport.
