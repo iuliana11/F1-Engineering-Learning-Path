@@ -40,6 +40,11 @@ Credit: ChatGPT
 ### **Definition:**  
 **Grip** is the **amount of traction or stickiness** between the tires of a car and the surface of the track. Good grip allows the car to go faster through corners without sliding.
 
+<p align="center">
+  <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/9774ae44-f444-46c8-8533-dfe779cd654f" />
+</p>
+Credit: ChatGPT
+
 ---
 
 ### **Key Factors Affecting Grip:**
