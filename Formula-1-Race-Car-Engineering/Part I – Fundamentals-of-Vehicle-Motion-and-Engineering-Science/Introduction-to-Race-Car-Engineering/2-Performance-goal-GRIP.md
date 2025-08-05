@@ -1,4 +1,4 @@
-# 🏎️ Performance Goals: Grip
+# 🏎️ Performance Goals: [Grip](https://github.com/iuliana11/F1-Engineering-Learning-Path/blob/main/Motorsport_Vocabulary.md#-grip)
 
 Race car engineering is all about making the car go as fast as possible while surviving the entire race. Four big goals guide everything a race engineer does:
 
@@ -38,7 +38,7 @@ It’s the **foundation of racing performance** – without grip, all the engine
 
 ## 2️⃣ Types of Grip
 
-### a) 🛞 Mechanical Grip (Tyres + Suspension)
+### a) 🛞 Mechanical Grip (Tyres + [Suspension](https://github.com/iuliana11/F1-Engineering-Learning-Path/blob/main/Motorsport_Vocabulary.md#-suspension))
 
 Comes from the **physical friction between tyres and the track**. This grip works at **all speeds**, even when aerodynamics have little effect (like slow corners or standing starts).
 
@@ -78,7 +78,7 @@ Comes from the **physical friction between tyres and the track**. This grip work
 
 ---
 
-### 🌪️ b) Aerodynamic Grip (Downforce)
+### 🌪️ b) Aerodynamic Grip ([Downforce](https://github.com/iuliana11/F1-Engineering-Learning-Path/blob/main/Motorsport_Vocabulary.md#-downforce))
 
 At high speeds, **air acts like an invisible force**, pushing the car down and increasing tyre traction. This extra load helps the tyres grip the track harder, allowing the car to corner faster without sliding.
 
