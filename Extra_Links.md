@@ -17,3 +17,15 @@ https://medium.com/@myroslavt./evolution-of-f1-telemetry-graphics-58d2e2e1e270
 ### The Best Among the Worst — or the Worst Among the Best?
 
 https://medium.com/@myroslavt./the-best-among-the-worst-or-the-worst-among-the-best-d0c2a54b3679
+
+### Car Aerodynamics Aerodynamic Principles Drag
+
+https://www.academia.edu/41750386/Car_Aerodynamics_Aerodynamic_Principles_Drag
+
+### Drag
+
+https://www.formula1-dictionary.net/drag.html
+
+### Will CFD Technology Shape the Next Era of F1 Aerodynamics?
+
+https://medium.com/@darienjy5056/will-cfd-technology-shape-the-next-era-of-f1-aerodynamics-6b39b9a3820b)
