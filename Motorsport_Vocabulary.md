@@ -15,6 +15,7 @@ A **track** is the special **road or circuit** where races take place. It is bui
 <p align="center">
   <img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/0a50b073-4e89-4d98-b81e-2d5d0dc74d37" />
 </p>
+Credit: ChatGPT
 
 ---
 
@@ -63,6 +64,11 @@ A **track** is the special **road or circuit** where races take place. It is bui
 ### **Definition:**  
 **Downforce** is the **aerodynamic force** that pushes a race car down onto the track as it moves forward. This helps the tires grip the road better, allowing the car to go faster through corners without sliding.
 
+<p align="center">
+  <img width="620" height="348" alt="Image" src="https://github.com/user-attachments/assets/7429f33f-8608-4648-adb1-78fe4d5d8dd5" />
+</p>
+Credit: https://www.gpfans.com/en/f1-news/104261/f1-downforce-explained/
+
 ---
 
 ### **Key Factors Affecting Downforce:**
@@ -90,6 +96,11 @@ A **track** is the special **road or circuit** where races take place. It is bui
 
 ### **Definition:**  
 **Aerodynamic drag** is the **air resistance** that pushes against a moving car, slowing it down. The faster the car goes, the more drag it has to fight through.
+
+<p align="center">
+  <img width="1291" height="542" alt="Image" src="https://github.com/user-attachments/assets/96b3e521-e099-4023-899b-0de004bae4ae" />
+</p>
+Credit: https://medium.com/@darienjy5056/will-cfd-technology-shape-the-next-era-of-f1-aerodynamics-6b39b9a3820b
 
 ---
 
@@ -120,6 +131,11 @@ A **track** is the special **road or circuit** where races take place. It is bui
 ### **Definition:**  
 **Suspension** is the **system of springs, dampers, and linkages** that connects a race car's wheels to its chassis. It helps keep the tires in contact with the track, improves handling, and provides stability, even on uneven surfaces or when cornering at high speeds.
 
+<p align="center">
+  <img width="721" height="398" alt="Image" src="https://github.com/user-attachments/assets/c1becd51-a68a-4826-a0cc-299db5682336" />
+</p>
+Credit: https://www.buildyourownracecar.com/race-car-suspension-basics-and-design/2/
+
 ---
 
 ### **Key Functions of Suspension:**
@@ -149,6 +165,11 @@ A **track** is the special **road or circuit** where races take place. It is bui
 
 ### **Definition:**  
 The **chassis** is the **main structural frame** of a race car. It holds all the key components together, including the engine, suspension, wheels, and bodywork. A well-designed chassis is strong, lightweight, and provides safety for the driver.
+
+<p align="center">
+  <img width="982" height="656" alt="Image" src="https://github.com/user-attachments/assets/264cc88a-e6c5-47d2-a71f-f12c491211cc" />
+</p>
+Credit: https://grabcad.com/library/formula-car-full-chassis
 
 ---
 
