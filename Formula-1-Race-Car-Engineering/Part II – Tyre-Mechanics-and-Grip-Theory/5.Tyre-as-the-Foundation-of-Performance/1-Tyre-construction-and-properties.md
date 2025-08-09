@@ -1,4 +1,4 @@
-## 🛞 F1 Tyre Compounds – The Pirelli "Rainbow"
+# 🛞 F1 Tyre Compounds – The Pirelli "Rainbow"
 
 In Formula 1, tyres are one of the most critical performance factors. They are the only point of contact between the car and the track, and their grip, temperature management, and wear characteristics directly influence lap times, strategy, and race outcomes.
 
