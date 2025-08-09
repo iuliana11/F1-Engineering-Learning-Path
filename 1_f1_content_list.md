@@ -10,9 +10,9 @@ It covers **physics, mathematics, vehicle systems, data analysis, electronics, s
 ## 🔰 Part I – Fundamentals of Vehicle Motion and Engineering Science
 
 1. **Introduction to Race Car Engineering**
-   - [Purpose of engineering in motorsport](Formula-1-Race-Car-Engineering/Part%20I%20%E2%80%93%20Fundamentals-of-Vehicle-Motion-and-Engineering-Science/Introduction-to-Race-Car-Engineering/1-Purpose-of-engineering-in-motorsport.md)
-   - [Performance goals: grip](Formula-1-Race-Car-Engineering/Part%20I%20%E2%80%93%20Fundamentals-of-Vehicle-Motion-and-Engineering-Science/Introduction-to-Race-Car-Engineering/2-Performance-goal-GRIP.md)
-   - [Performance goals: power](Formula-1-Race-Car-Engineering/Part%20I%20%E2%80%93%20Fundamentals-of-Vehicle-Motion-and-Engineering-Science/Introduction-to-Race-Car-Engineering/3-Performance-goal-POWER.md)
+   - [Purpose of engineering in motorsport](Formula-1-Race-Car-Engineering/Part%20I%20%E2%80%93%20Fundamentals-of-Vehicle-Motion-and-Engineering-Science/1.Introduction-to-Race-Car-Engineering/1-Purpose-of-engineering-in-motorsport.md)
+   - [Performance goals: grip](Formula-1-Race-Car-Engineering/Part%20I%20%E2%80%93%20Fundamentals-of-Vehicle-Motion-and-Engineering-Science/1.Introduction-to-Race-Car-Engineering/2-Performance-goal-GRIP.md)
+   - [Performance goals: power](Formula-1-Race-Car-Engineering/Part%20I%20%E2%80%93%20Fundamentals-of-Vehicle-Motion-and-Engineering-Science/1.Introduction-to-Race-Car-Engineering/3-Performance-goal-POWER.md)
    - Performance goals: reliability
    - Performance goals: efficiency
    - Interaction of driver, car, and track
@@ -37,7 +37,7 @@ It covers **physics, mathematics, vehicle systems, data analysis, electronics, s
 ## 🛠️ Part II – Tyre Mechanics and Grip Theory *(Haney, Milliken, Gillespie)*
 
 5. **Tyre as the Foundation of Performance**
-   - Tyre construction and properties
+   - [Tyre construction and properties](Formula-1-Race-Car-Engineering/Part%20II%20%E2%80%93%20Tyre-Mechanics-and-Grip-Theory/5.Tyre-as-the-Foundation-of-Performance/1-Tyre-construction-and-properties.md)
    - Contact patch mechanics
    - Load sensitivity and non-linear behaviour
 
