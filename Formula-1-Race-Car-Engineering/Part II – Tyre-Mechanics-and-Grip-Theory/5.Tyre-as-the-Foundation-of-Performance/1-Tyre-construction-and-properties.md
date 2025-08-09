@@ -1,93 +1,122 @@
-# 🛞 F1 Tyre Compounds – The Pirelli "Rainbow"
+# F1 Tyre Compounds – The Pirelli "Rainbow"
 
-In Formula 1, tyres are one of the most critical performance factors. They are the only point of contact between the car and the track, and their grip, temperature management, and wear characteristics directly influence lap times, strategy, and race outcomes.
+Tyres are critical in Formula 1 as the sole contact point between car and track, influencing grip, temperature management, wear, lap times, and strategy.
 
-From 2011 onwards, **Pirelli** has been the sole tyre supplier in F1, producing multiple **slick (dry)** compounds, as well as intermediate and wet-weather tyres.  
-The 2018 season featured the most extensive range of slick compounds, nicknamed the **Pirelli Rainbow** due to the colour-coding system.
-
----
-
-### 🔍 Tyre Construction & Properties
-
-An F1 tyre is a highly engineered structure designed to handle enormous loads, speeds exceeding 350 km/h, and rapid changes in temperature and grip.
-
-**Main components:**
-1. **Tread Compound**  
-   - Specialised rubber blend optimised for grip, heat resistance, and wear.  
-   - Formula 1 slick compounds vary in hardness, affecting grip and durability.  
-   - Designed to work in a specific **temperature window** (e.g., 80–110°C for soft tyres).
-
-2. **Carcass (Body)**  
-   - Layers of synthetic fibres (e.g., nylon, polyester) and **steel belts** for structural integrity.  
-   - Determines stiffness, cornering response, and resistance to deformation under load.
-
-3. **Sidewall**  
-   - Controls tyre flex and steering feedback.  
-   - Stiffer sidewalls = sharper response, but harsher ride.  
-   - More flexible sidewalls = better compliance, but slower transitions.
-
-4. **Bead**  
-   - Reinforced edge that locks tyre to the wheel rim.  
-   - Must withstand high lateral forces without slipping.
-
-**F1-specific parameters (2018 Pirelli slicks):**
-- **Diameter:** 670 mm (including tread)  
-- **Width:** 305 mm (front), 405 mm (rear)  
-- **Weight:** ~8.5 kg (front), ~10 kg (rear)  
-- **Minimum pressures:** Defined by FIA/Pirelli, vary by track (e.g., 21 psi front, 19 psi rear).  
-- **Construction focus:** Balancing grip, thermal behaviour, and predictability over a race stint.
+Since 2011, Pirelli supplies F1 tyres, offering multiple slick compounds plus intermediates and wets. The 2018 season featured the most extensive slick range, dubbed the **Pirelli Rainbow** for its colour-coded system.
 
 ---
 
-### 📊 Slick Tyre Compounds (2018 Range)
+## 🔍 Tyre Construction & Specs
 
-| Compound Name  | Colour     | Grip Level | Durability | Typical Use Case |
-|----------------|-----------|------------|------------|------------------|
-| **Superhard**  | 🟧 Orange | Lowest     | Highest    | Extreme durability for abrasive tracks, rarely used |
-| **Hard**       | 🔵 Blue   | Low        | Very High  | Long stints, high degradation tracks |
-| **Medium**     | ⚪ White  | Balanced   | High       | Versatile race tyre, balanced between speed & life |
-| **Soft**       | 🟡 Yellow | Medium-High| Medium     | Qualifying + shorter race stints |
-| **Supersoft**  | 🔴 Red    | High       | Low        | Maximum grip for short runs, qualifying tyres |
-| **Ultrasoft**  | 🟣 Purple | Very High  | Very Low   | Street circuits, high grip but quick degradation |
-| **Hypersoft**  | 🌸 Pink   | Extreme    | Shortest   | Highest grip ever in F1, designed for very short stints |
+- **Tread Compound:** Rubber blends optimised for grip, heat, and wear.  
+- **Carcass:** Synthetic fibres and steel belts give stiffness and strength.  
+- **Sidewall:** Controls flex and steering feel.  
+- **Bead:** Locks tyre to wheel rim under high lateral forces.
+
+**2018 slicks specs:**  
+Diameter: 670 mm | Width: 305 mm front / 405 mm rear | Weight: ~8.5 kg front / ~10 kg rear | Pressure: ~21 psi front / ~19 psi rear
 
 ---
 
-### ⚙️ Compound Characteristics
+## 📊 Slick Tyre Compounds (2018)
 
-1. **Grip vs Durability Trade-Off**  
-   - Softer tyres provide more grip (faster lap times) but wear out faster.  
-   - Harder tyres last longer but offer less peak grip.
-
-2. **Operating Temperature Window**  
-   - Each compound works best within a specific temperature range.  
-   - Example: Hypersoft optimum ~85–110°C, Superhard optimum ~105–135°C.
-
-3. **Degradation Types**  
-   - **Thermal degradation** – Grip loss from overheating.  
-   - **Graining** – Rubber shearing from cold or sliding tyres.  
-   - **Blistering** – Surface damage from excess heat inside the tyre.
-
-4. **Load Sensitivity**  
-   - Grip increases with load (downforce) but with diminishing returns.  
-   - Too much power or steering at the wrong time can cause loss of traction.
+| Compound    | Colour  | Grip Level    | Durability    | Use Case                        | Best Conditions                        |
+|-------------|---------|---------------|---------------|--------------------------------|--------------------------------------|
+| Superhard   | 🟧Orange| Lowest        | Highest       | Abrasive tracks, rare use      | Hot, dry, abrasive                   |
+| Hard        | 🔵Blue  | Low           | Very High     | Long stints                   | Hot, dry                             |
+| Medium      | ⚪White | Balanced      | High          | Versatile race tyre            | Mild to warm, dry                   |
+| Soft        | 🟡Yellow| Medium-High   | Medium        | Qualifying + short stints      | Warm, dry                          |
+| Supersoft   | 🔴Red   | High          | Low           | Qualifying, short runs         | Dry, moderately warm                |
+| Ultrasoft   | 🟣Purple| Very High     | Very Low      | Street circuits                | Cool/moderate temp, dry            |
+| Hypersoft   | 🌸Pink  | Extreme       | Shortest      | Shortest stints, max grip      | Cool, dry                         |
 
 ---
 
-### 🏎️ Strategic Impact
+## 🌧️ Wet & Intermediate Tyres
 
-- **Qualifying:** Teams often use the softest compound available for maximum grip.  
-- **Race:** Strategy balances pace and tyre life — sometimes sacrificing speed for fewer pit stops.  
-- **Track Specific:**  
-  - High-degradation tracks (e.g., Bahrain) favour harder compounds.  
-  - Low-degradation tracks (e.g., Monaco) allow aggressive soft tyre usage.
-
-> 💬 *“You can have the best car on the grid, but without the right tyre at the right time, you’re nowhere.”*
+| Tyre Type   | Colour   | Use Case                      | Weather Condition                |
+|-------------|----------|-------------------------------|--------------------------------|
+| Intermediate| 🟩Green  | Light rain, damp/drying track  | Light rain or damp track         |
+| Full Wet    | 🔵Blue   | Heavy rain, standing water     | Heavy rain, flooded track       |
 
 ---
 
-### 📌 Notes
+## 🛠️ How Each Tyre Works (Summary)
 
-- **Post-2019**, Pirelli simplified the colour system to just 3 compounds per race:  
-  - C1 to C5 base compounds → labelled as Hard (White), Medium (Yellow), Soft (Red) regardless of actual hardness.
-- Wet-weather tyres (Green for Intermediates, Blue for Full Wets) are a separate category.
+| Tyre          | Colour    | Main Feature                         | Strengths                          | Weaknesses                          |
+|---------------|-----------|------------------------------------|----------------------------------|-----------------------------------|
+| Superhard     | 🟧 Orange | Hardest, longest lasting            | High durability, stable under heat | Low grip, slow warm-up             |
+| Hard          | 🔵 Blue   | Durable, low grip                   | Long stints on hot, abrasive tracks | Less grip, less flexible            |
+| Medium        | ⚪ White  | Balanced grip and durability       | Versatile, good all-rounder       | Not best in extremes               |
+| Soft          | 🟡 Yellow | Good grip, moderate wear           | Strong qualifying tyre, decent race pace | Degrades faster than medium        |
+| Supersoft     | 🔴 Red    | High grip, low durability          | Fast laps, good on smooth tracks  | Quick degradation, overheating risk |
+| Ultrasoft     | 🟣 Purple | Very high grip, very low durability | Great for street circuits, cool tracks | Very sensitive to heat and wear    |
+| Hypersoft     | 🌸 Pink   | Maximum grip, shortest life        | Best qualifying performance       | Very quick wear, only cool conditions |
+
+---
+
+## 🌦️ Weather Conditions & Tyre Choice
+
+- **Dry & Hot:** Use harder compounds (Superhard, Hard) to prevent overheating and blistering.  
+- **Dry & Mild/Warm:** Medium and Soft compounds offer a balance of grip and durability.  
+- **Dry & Cool:** Softer compounds like Ultrasoft and Hypersoft warm up better, giving more grip.  
+- **Light Rain/Damp:** Intermediate tyres (Green) disperse moderate water, maintain grip on drying surfaces.  
+- **Heavy Rain:** Full wet tyres (Blue) with deep grooves prevent aquaplaning on flooded tracks.  
+- **Snow:** F1 does not race; sessions are delayed or cancelled.
+
+---
+
+## 🏎️ Strategic Impact
+
+- **Qualifying:** Use softest tyres available for maximum grip.  
+- **Race:** Balance between tyre life and pace, considering track and weather.  
+- **Track Specific:** High degradation tracks favour harder tyres; low degradation tracks allow softer tyre strategies.  
+- **Weather Specific:** Tyres chosen based on temperature and moisture to maintain optimal grip and durability.
+
+---
+
+## ⚠️ Important Points About F1 Tyres
+
+- **Tyre Warm-up is Key:**  
+  Tyres perform best when in their optimal temperature range. Too cold causes graining and poor grip; too hot accelerates degradation and blistering.
+
+- **Track Surface & Weather Impact Performance:**  
+  Different asphalt types, temperatures, and humidity levels affect how a tyre compound behaves.
+
+- **Pit Stop Strategy is Tyre-Driven:**  
+  Teams plan their race strategy mainly around tyre wear and degradation, sometimes sacrificing outright speed for fewer stops.
+
+- **Safety Regulations:**  
+  The FIA mandates minimum pressures, maximum speeds, and limits on tyre use to ensure safety.
+
+- **Tyre Allocation Limits:**  
+  Drivers receive a limited number of tyre sets per race weekend, making management vital.
+
+- **Wet Tyres vs Slicks:**  
+  Intermediates and full wets cannot be used on dry tracks as they overheat quickly; slicks on wet tracks offer almost no grip and are unsafe.
+
+- **Post-2019 Simplification:**  
+  The complex rainbow system was replaced by three compounds per race (Hard - White, Medium - Yellow, Soft - Red) to simplify strategies for fans.
+
+---
+
+## 📌 Notes
+
+- Post-2019, Pirelli simplified slick tyres to 3 compounds per race, labelled Hard (White), Medium (Yellow), and Soft (Red), regardless of actual base compound (C1–C5).  
+- Wet tyres (Intermediate Green and Full Wet Blue) remain distinct categories.
+
+---
+
+## 📈 Quick Reference Chart: Tyre Compounds & Conditions
+
+| Tyre Type      | Colour    | Grip Level       | Durability       | Optimal Conditions                | Notes                            |
+|----------------|-----------|------------------|------------------|---------------------------------|---------------------------------|
+| Superhard      | 🟧 Orange | Lowest           | Highest          | Hot, abrasive dry tracks         | Rarely used                     |
+| Hard           | 🔵 Blue   | Low              | Very High        | Hot, dry, high wear tracks       | Long stints                    |
+| Medium         | ⚪ White  | Balanced         | High             | Mild to warm dry                 | All-rounder                    |
+| Soft           | 🟡 Yellow | Medium-High      | Medium           | Warm, dry                      | Qualifying + short stints      |
+| Supersoft      | 🔴 Red    | High             | Low              | Dry, moderate temp              | Fast but degrades quickly      |
+| Ultrasoft      | 🟣 Purple | Very High        | Very Low         | Cool/moderate temp, dry         | Street circuits                |
+| Hypersoft      | 🌸 Pink   | Extreme          | Shortest         | Cool, dry                      | Best qualifying grip           |
+| Intermediate   | 🟩 Green  | Moderate grip    | N/A              | Light rain, damp/drying track    | Mixed wet/dry conditions       |
+| Full Wet       | 🔵 Blue   | Max water dispersal | N/A              | Heavy rain, flooded track        | Prevents aquaplaning           |
